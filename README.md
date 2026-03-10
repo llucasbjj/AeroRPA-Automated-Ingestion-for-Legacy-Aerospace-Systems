@@ -30,6 +30,16 @@ Para contornar as restrições da segurança da informação (InfoSec), este sis
 2. **Atuação Computacional (O Músculo):**
    - Usando abstração de *PyAutoGUI* e *OpenCV*, o RPA simula periféricos físicos (mouse e teclado), executando coreografias de injeção em alta velocidade baseadas nos fluxos de janelas (pop-ups) do VDI.
 
+## 🖥️ Cockpit de Controle (Interface de Usuário)
+
+O painel de controle foi desenvolvido em **Streamlit** para fornecer uma interface reativa e à prova de falhas para os engenheiros e analistas de backoffice.
+
+<p align="center">
+  <img src="Captura de tela 2026-03-10 085836.png" alt="Interface do AeroSys" width="800">
+  <br>
+  <i>Interface de ingestão em lote, demonstrando a extração via OCR/Regex e o terminal de correção humana.</i>
+</p>
+
 ## 💻 Princípios de Engenharia de Software Aplicados
 
 No contexto de sistemas críticos de defesa e logística espacial, a manutenibilidade do código não é opcional; é requisito. 
