@@ -5,6 +5,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Engineering-150458?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-PEP_8-00C7B7?style=for-the-badge)
 
+<p align="center">
+  <img src="WhatsApp-Video-2026-03-03-at-10.48.17.gif" alt="Demonstração do AeroRPA em ação" width="800">
+  <br>
+  <i>📹 Demonstração (PoC): O robô contornando bloqueios de infraestrutura e realizando injeção física de dados em alta velocidade via VDI.</i>
+</p>
+
 Um sistema de Automação Robótica de Processos (RPA) híbrido focado em sistemas de missão crítica. Desenvolvido para realizar a extração, validação e injeção de dados logísticos (abastecimento de propelentes QAV/AVGAS) e horas de voo em ERPs blindados que operam isolados em Máquinas Virtuais (VDI/Terminal Services).
 
 ## 🛰️ O Desafio de Negócio e Infraestrutura
