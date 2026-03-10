@@ -6,7 +6,7 @@
 ![Clean Code](https://img.shields.io/badge/Clean_Code-PEP_8-00C7B7?style=for-the-badge)
 
 <p align="center">
-  <img src="WhatsApp-Video-2026-03-03-at-10.48.17.gif" alt="Demonstração do AeroRPA em ação" width="800">
+  <img src="WhatsApp-Video-2026-03-03-at-10.48.17-_online-video-cutter.com_.gif" alt="Demonstração do AeroRPA em ação" width="800">
   <br>
   <i>📹 Demonstração (PoC): O robô contornando bloqueios de infraestrutura e realizando injeção física de dados em alta velocidade via VDI.</i>
 </p>
