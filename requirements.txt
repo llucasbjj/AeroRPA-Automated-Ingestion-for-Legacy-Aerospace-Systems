@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+pdfplumber
+pyautogui
+gspread
+google-auth
+rapidfuzz
+# Note: Some libraries like pywin32 or others might be needed depending on the OS for pyautogui, 
+# but these are the core logic dependencies.
